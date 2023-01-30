@@ -1,0 +1,33 @@
+html{
+    background-color: bisque;
+}
+h1{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    background-image: url(./img/Best\ MINDSET\ BOOKS\ \(16\).png);
+}
+span{
+color: brown;
+font-family: sans-serif;
+}
+h2{
+    font-family: Helvetica;
+    font-size: 32;
+    font-weight: bold;
+    color: white;
+    background-color: blue;
+}
+h3{
+    font-family: Helvetica;
+    font-size: 32;
+    font-weight: bold;
+    color: white;
+    background-color: burlywood;
+}
+.story{
+    color: white;
+    background-image: url(./img/Best\ MINDSET\ BOOKS\ \(19\).png);
+}
